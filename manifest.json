@@ -1,0 +1,16 @@
+{
+  "name": "Sakia",
+  "short_name": "Sakia",
+  "start_url": "/sakia-app/",
+  "scope": "/sakia-app/",
+  "display": "standalone",
+  "background_color": "#141519",
+  "theme_color": "#141519",
+  "icons": [
+    {
+      "src": "/sakia-app/apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
